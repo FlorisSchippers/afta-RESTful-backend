@@ -1,2 +1,4 @@
-# afta-Angular2-frontend
-Angular 2 frontend for the afta project
+# afta-RESTful-Backend
+RESTful backend for the afta project
+
+Contains all files besides the node_modules which can locally be installed with 'npm install' and run with 'gulp'
